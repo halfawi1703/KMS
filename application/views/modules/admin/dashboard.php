@@ -31,12 +31,10 @@
 						<div class="col-8">
 							<div class="numbers">
 								<p class="text-sm mb-0 text-capitalize font-weight-bold">Today's Users</p>
-								<h1 class="font-weight-bolder mb-0">
+								<h5 class="font-weight-bolder mb-0">
 									2,300
 									<span class="text-success text-sm font-weight-bolder">+3%</span>
-									<span class="text-success text-sm font-weight-bolder">+2%</span>
-									<span class="text-success text-sm font-weight-bolder">+1%</span>
-								</h1>
+								</h5>
 							</div>
 						</div>
 						<div class="col-4 text-end">
