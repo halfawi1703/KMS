@@ -101,4 +101,4 @@ if (ENVIRONMENT == 'production') {
 | API
 |--------------------------------------------------------------------------
 */
-$config['api_host'] = 'http://localhost:8080/kms/api/';
+$config['api_host'] = 'http://localhost:80/kms/api/';
