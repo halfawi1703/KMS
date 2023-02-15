@@ -35,6 +35,7 @@
 									2,300
 									<span class="text-success text-sm font-weight-bolder">+3%</span>
 									<span class="text-success text-sm font-weight-bolder">+2%</span>
+									<span class="text-success text-sm font-weight-bolder">+1%</span>
 								</h1>
 							</div>
 						</div>
